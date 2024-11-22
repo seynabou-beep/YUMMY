@@ -1,0 +1,198 @@
+    
+    main{
+        background-color:rgb(245, 238, 234);
+    }
+
+    .section0 a{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    font-family: Arial,sans-serif;
+
+
+    }
+
+    .pageactive{
+        display: inline-block;
+        width: 100%;
+        border-bottom: 4px solid  rgb(182, 39, 39);
+
+    }
+
+    .section0{
+        display:flex;
+        justify-content: start;
+        align-items: center;
+        gap: 20px;
+        margin-top: 0%;
+    }
+
+    .section01{
+        padding: 4%;
+        background-color: rgb(182, 39, 39);
+        color: white;
+        font-weight: bold;
+        margin-top: 2%;
+    }
+
+
+    section{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10%;
+        margin-top: 7%;
+
+    }
+
+    .imag{
+        width: 85%;
+    }
+
+
+    span{
+
+        color:rgb(182, 39, 39);
+        font-weight: bold;
+    }
+
+    .yummy{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 300%;
+    }
+
+
+
+    .section1 p{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+
+
+    .section1 a{
+        text-decoration:none ;
+        background-color: black;
+        color: white;
+        padding: 4%;
+        font-weight: bold;
+        display: inline-block;
+        margin-bottom: 10%;
+        margin-left: 25%;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .section2{
+        
+        margin-top: 15%;
+    }
+
+    .Facade_Yu{
+        font-weight: bold;
+    }
+
+    .section2 p{
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .corps2adresse
+    {
+        margin-bottom: 4%;
+    }
+
+    .adresse{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .span2{
+        
+        display: inline-block;/*ca nous permert de manipuler la bordure bottom; puis on met width pour diminuer la longueur du bordure*/
+        width: 50%;
+        border-bottom: 4px solid rgb(182, 39, 39);
+        color: black;
+    }
+
+
+    .section4 .spansection4{
+    
+            display: inline-block;/*ca nous permert de manipuler la bordure bottom; puis on met width pour diminuer la longueur du bordure*/
+            width: 20%;
+            border-bottom: 4px solid rgb(182, 39, 39);
+            color: black;
+        }
+
+        .section4 .psection4{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+table{
+    padding: 3%;
+    width: 80%;
+}
+
+td{
+    padding: 3%;
+}
+
+    caption{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    caption span{
+        
+        display: inline-block;/*ca nous permert de manipuler la bordure bottom; puis on met width pour diminuer la longueur du bordure*/
+        width: 37%;
+        border-bottom: 4px solid rgb(182, 39, 39);
+        color: black;
+    }
+
+
+
+    .section5 .spansection5{
+    
+        display: inline-block;/*ca nous permert de manipuler la bordure bottom; puis on met width pour diminuer la longueur du bordure*/
+        width: 15%;
+        border-bottom: 4px solid rgb(182, 39, 39);
+        color: black;
+    }
+
+    .section5 .psection5{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .section5 span{
+        font-weight: bold;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .section5 .texte
+    {
+        text-align: center;
+    }
+
+    .section6 img{
+        width: 25%;
+       
+    }
+
+    .section6{
+        display:flex;
+        justify-content: end;
+        align-items: center;
+        gap: 1px;
+        margin-top: 4%;
+            
+        background-color: black;
+        padding: 6%;
+    }
